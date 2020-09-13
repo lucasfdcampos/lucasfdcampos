@@ -18,10 +18,6 @@ My passion for programming is related to creating tools to help people and creat
  <li>🎸 Sometimes I play bass, listen music and ❤️☕</li>
 </ul>
 
-> 🥊 "I'll show you how great I am!" 
-― Muhammad Ali
-
-
 ## Languages & Technologies
 
 <p>
@@ -32,7 +28,14 @@ My passion for programming is related to creating tools to help people and creat
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 </p>
+
+
+
+> 🥊 "I'll show you how great I am!" 
+― Muhammad Ali
+
 
 ## Github Stats:
 
