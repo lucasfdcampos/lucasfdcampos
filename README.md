@@ -29,7 +29,6 @@ My passion for programming is related to creating tools to help people and creat
  <li>🚢 I know a lot - 10 year experience - about Clipper (yes, the language Clipper '84)</li>
  <li>🎸 Sometimes I play bass, listen music and ❤️☕</li>
 </ul>
----
 
 ## Languages & Technologies
 
