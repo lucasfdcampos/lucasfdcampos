@@ -18,6 +18,8 @@ My passion for programming is related to creating tools to help people and creat
  <li>🎸 Sometimes I play bass, listen music and ❤️☕</li>
 </ul>
 
+<hr>
+
 > 🥊 "I'll show you how great I am!" 
 ― Muhammad Ali
 
