@@ -20,13 +20,15 @@ Brazilian <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="
 
 My passion for programming is related to creating tools to help people and create value to the world.
 
-👨🏻‍💻 Full Stack Developer
-🏢 Entrepreneur
-🚀 I'm currently studying (hard) TypeScript, NodeJS, React & React Native
-🧭 Enjoying VSCode, Linux 🐧, Git and Notion
-💪🏻 Working on my portfolio
-🚢 I know a lot - 10 year experience - about Clipper (yes, the language Clipper '84)
-🎸 Sometimes I play bass, listen music and ❤️☕
+<ul>
+ <li>👨🏻‍💻 Full Stack Developer</li>
+ <li>🏢 Entrepreneur</li>
+ <li>🚀 I'm currently studying (hard) TypeScript, NodeJS, React & React Native</li>
+ <li>🧭 Enjoying VSCode, Linux 🐧, Git and Notion</li>
+ <li>💪🏻 Working on my portfolio</li>
+ <li>🚢 I know a lot - 10 year experience - about Clipper (yes, the language Clipper '84)</li>
+ <li>🎸 Sometimes I play bass, listen music and ❤️☕</li>
+</ul>
 
 ---
 ## Languages & Technologies
