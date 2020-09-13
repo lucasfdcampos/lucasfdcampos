@@ -18,7 +18,7 @@ My passion for programming is related to creating tools to help people and creat
 
 <br />
 
-> 🥊 "I'll show you how great I am!" 
+> "I'll show you how great I am!" 
 ― Muhammad Ali
 
 ## Languages & Technologies
