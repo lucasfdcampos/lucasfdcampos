@@ -6,8 +6,6 @@ Enthusiast about web & mobile development techologies.
 
 My passion for programming is related to creating tools to help people and create value to the world.
 
-<br />
-
 <ul>
  <li>👨🏻‍💻 Full Stack Developer</li>
  <li>🏢 Entrepreneur</li>
@@ -18,7 +16,6 @@ My passion for programming is related to creating tools to help people and creat
  <li>🎸 Sometimes I play bass, listen music and ❤️☕</li>
 </ul>
 
-<br />
 <br />
 
 > 🥊 "I'll show you how great I am!" 
