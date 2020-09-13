@@ -29,8 +29,8 @@ My passion for programming is related to creating tools to help people and creat
  <li>🚢 I know a lot - 10 year experience - about Clipper (yes, the language Clipper '84)</li>
  <li>🎸 Sometimes I play bass, listen music and ❤️☕</li>
 </ul>
-
 ---
+
 ## Languages & Technologies
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -42,3 +42,9 @@ My passion for programming is related to creating tools to help people and creat
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+---
+> Yes, it's still weak, but...
+> 🥊 "I'll show you how great I am!"
+― Muhammad Ali
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true">
