@@ -30,6 +30,7 @@ My passion for programming is related to creating tools to help people and creat
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=for-the-badge&logo=styled-components)](https://github.com/lucasfdcampos/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
@@ -37,6 +38,8 @@ My passion for programming is related to creating tools to help people and creat
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=Linux&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 
 
 ## Github Stats:
