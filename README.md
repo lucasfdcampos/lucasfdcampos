@@ -22,7 +22,6 @@ My passion for programming is related to creating tools to help people and creat
 
 <br />
 <br />
-<br />
 
 > 🥊 "I'll show you how great I am!" 
 ― Muhammad Ali
