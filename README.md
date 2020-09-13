@@ -22,12 +22,12 @@ My passion for programming is related to creating tools to help people and creat
 ― Muhammad Ali
 
 ## Languages & Technologies
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/lucasfdcampos/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/lucasfdcampos/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=for-the-badge&logo=styled-components)](https://github.com/lucasfdcampos/)
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react)](https://github.com/lucasfdcampos/)
 
 
 
