@@ -1,4 +1,4 @@
-<h1>Hi 👋🏻, I'm Lucas Campos</h1>
+<h1>Hi, I'm Lucas Campos</h1>
 
 Brazilian <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> , enthusiast about web & mobile development techologies.
 
@@ -21,7 +21,6 @@ My passion for programming is related to creating tools to help people and creat
 > 🥊 "I'll show you how great I am!" 
 ― Muhammad Ali
 
----
 
 ## Languages & Technologies
 
@@ -41,5 +40,6 @@ My passion for programming is related to creating tools to help people and creat
 ![Repos Badge](https://badges.pufler.dev/repos/lucasfdcampos?style=for-the-badge)
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true&theme=algolia&line_height=27">
+ <!-- <img src = "https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true&theme=algolia&line_height=27"> -->
+ <img align='center' src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true">
 </p>
