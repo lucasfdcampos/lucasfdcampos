@@ -1,6 +1,8 @@
 <h1>Hi, I'm Lucas Campos</h1>
 
-Brazilian <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> , enthusiast about web & mobile development techologies.
+Brazilian <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>
+
+Enthusiast about web & mobile development techologies.
 
 My passion for programming is related to creating tools to help people and create value to the world.
 
