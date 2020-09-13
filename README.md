@@ -6,9 +6,7 @@ Enthusiast about web & mobile development techologies.
 
 My passion for programming is related to creating tools to help people and create value to the world.
 
-<a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/ludcasfdcampos"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:lucascampos.ads@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<br />
 
 <ul>
  <li>👨🏻‍💻 Full Stack Developer</li>
@@ -60,3 +58,8 @@ My passion for programming is related to creating tools to help people and creat
  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true&theme=algolia&line_height=27"> -->
  <img align='center' src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true">
 </p>
+
+## How to reach me
+<a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/ludcasfdcampos"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:lucascampos.ads@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
