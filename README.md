@@ -35,8 +35,7 @@ My passion for programming is related to creating tools to help people and creat
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=for-the-badge&logo=mysql&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=ffor-the-badge&logo=Linux&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=Linux&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 
 
