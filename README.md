@@ -52,7 +52,9 @@ My passion for programming is related to creating tools to help people and creat
 ![Repos Badge](https://badges.pufler.dev/repos/lucasfdcampos?style=for-the-badge)
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true">
+
 ---
+
 ### How to reach me
 <a href="https://linkedin.com/in/lucasfdcampos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasfdcampos" height="30" width="30" /></a>
 <a href="https://instagram.com/lucasfdcampos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucasfdcampos" height="30" width="30" /></a>
