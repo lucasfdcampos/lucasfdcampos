@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **lucasfdcampos/lucasfdcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Lucas Campos
+Brazilian <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> , enthusiast about web & mobile development techologies.
+My passion for programming is related to creating tools to help people and create value to the world.
