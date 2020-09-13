@@ -38,12 +38,12 @@ My passion for programming is related to creating tools to help people and creat
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=Linux&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=or-the-badge&logo=redux&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=Insomnia&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=or-the-badge&logo=figma)](https://github.com/lucasfdcampos/)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=or-the-badge&logo=Dribbble&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=for-the-badge&logo=figma)](https://github.com/lucasfdcampos/)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=for-the-badge&logo=Dribbble&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 
 
 ## Github Stats:
