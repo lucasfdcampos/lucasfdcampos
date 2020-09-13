@@ -50,6 +50,7 @@ My passion for programming is related to creating tools to help people and creat
 ― Muhammad Ali
 
 ![Repos Badge](https://badges.pufler.dev/repos/lucasfdcampos?style=for-the-badge)
+
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true">
 ---
 ### How to reach me
