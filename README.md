@@ -26,8 +26,9 @@ My passion for programming is related to creating tools to help people and creat
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=for-the-badge&logo=styled-components)](https://github.com/lucasfdcampos/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react)](https://github.com/lucasfdcampos/)
+[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=for-the-badge&logo=styled-components)](https://github.com/lucasfdcampos/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 
 
 
