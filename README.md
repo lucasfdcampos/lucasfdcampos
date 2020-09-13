@@ -29,10 +29,8 @@ My passion for programming is related to creating tools to help people and creat
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Dokcer&logoColor=white"/>
 </p>
 
-<br />
 > 🥊 "I'll show you how great I am!" 
 ― Muhammad Ali
 <br />
