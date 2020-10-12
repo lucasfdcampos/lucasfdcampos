@@ -52,18 +52,11 @@ My passion for programming is related to creating tools to help people and creat
 [![Visits Badge](https://badges.pufler.dev/visits/lucasfdcampos/lucasfdcampos?style=for-the-badge)](https://github.com/lucasfdcampos/lucasfdcampos)
 ![Repos Badge](https://badges.pufler.dev/repos/lucasfdcampos?style=for-the-badge)
 
-<p>
- <!-- <img src = "https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true&theme=algolia&line_height=27"> -->
- <img align='center' src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true">
-</p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasfdcampos&count_private&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/lucasfdcampos/github-readme-stats)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasfdcampos&show_icons=true&theme=radical)](https://github.com/lucasfdcampos/github-readme-stats)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact)](https://github.com/lucasfdcampos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight)](https://github.com/lucasfdcampos/github-readme-stats)
  
 
 ## How to reach me
