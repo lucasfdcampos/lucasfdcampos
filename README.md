@@ -61,9 +61,5 @@ My passion for programming is related to creating tools to help people and creat
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
  </a>
 </div>
- 
 
-<h2> How to reach me </h2>
-<a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/lucasfdcampos"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:lucascampos.ads@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+
