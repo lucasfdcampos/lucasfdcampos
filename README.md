@@ -61,6 +61,7 @@ My passion for programming is related to creating tools to help people and creat
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
  </a>
  <br /><br /><br /><br /><br /><br /><br /><br />
+ <br /><br /><br /><br /><br /><br /><br /><br />
 </div>
 
 <h2> How to reach me </h2>
