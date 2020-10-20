@@ -62,4 +62,7 @@ My passion for programming is related to creating tools to help people and creat
  </a>
 </div>
 
-
+<div>
+ <h2> How to reach me </h2> 
+ 
+</div> 
