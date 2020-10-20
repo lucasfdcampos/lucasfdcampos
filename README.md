@@ -53,13 +53,18 @@ My passion for programming is related to creating tools to help people and creat
 ![Repos Badge](https://badges.pufler.dev/repos/lucasfdcampos?color=blueviolet)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasfdcampos&count_private&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/lucasfdcampos/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight)](https://github.com/lucasfdcampos/github-readme-stats)
+<p>
+  <a>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&count_private&hide=prs&show_icons=true&theme=tokyonight" />
+ </a>
+ <a>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
+ </a>
+</p>
+<br />
  
 
-## How to reach me
+<h2> How to reach me </h2>
 <a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/lucasfdcampos"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:lucascampos.ads@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
