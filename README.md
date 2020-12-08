@@ -55,8 +55,8 @@ My passion for programming is related to creating tools to help people and creat
 
 <p> 
   <a href="https://github.com/lucasfdcampos">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&count_private&hide=prs&show_icons=true&theme=tokyonight" />
-   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&count_private&hide=prs&show_icons=true&theme=tokyonight" />
+   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
  </a>
 </p>
 
