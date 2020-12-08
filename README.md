@@ -47,7 +47,7 @@ My passion for programming is related to creating tools to help people and creat
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 
-## Github Stats:
+## Github Stats
 
 [![Visits Badge](https://badges.pufler.dev/visits/lucasfdcampos/lucasfdcampos?color=blueviolet)](https://github.com/lucasfdcampos/lucasfdcampos)
 [![Repos Badge](https://badges.pufler.dev/repos/lucasfdcampos?color=blueviolet)](https://github.com/lucasfdcampos/lucasfdcampos)
