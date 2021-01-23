@@ -2,7 +2,7 @@
 
 Brazilian <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>
 
-Enthusiast about web & mobile development techologies.
+Enthusiast about web & mobile development technologies.
 
 My passion for programming is related to creating tools to help people and create value to the world.
 
