@@ -46,6 +46,7 @@ My passion for programming is related to creating tools to help people and creat
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=for-the-badge&logo=figma)](https://github.com/lucasfdcampos/)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 
 ## Github Stats
 
