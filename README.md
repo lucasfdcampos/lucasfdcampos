@@ -28,7 +28,7 @@ My passion for programming is related to creating tools to help people and creat
 [![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react)](https://github.com/lucasfdcampos/)
-[![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=nextjs&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
