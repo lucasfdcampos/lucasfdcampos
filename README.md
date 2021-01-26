@@ -24,7 +24,7 @@ My passion for programming is related to creating tools to help people and creat
 ## Languages & Technologies
 [![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react)](https://github.com/lucasfdcampos/)
