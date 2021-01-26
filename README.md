@@ -31,7 +31,7 @@ My passion for programming is related to creating tools to help people and creat
 [![Next](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=for-the-badge&logo=styled-components)](https://github.com/lucasfdcampos/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=Insomnia&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
