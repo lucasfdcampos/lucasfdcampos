@@ -50,7 +50,7 @@ My passion for programming is related to creating tools to help people and creat
 ## Github Stats
 
 [![Visits Badge](https://badges.pufler.dev/visits/lucasfdcampos/lucasfdcampos?color=blueviolet)](https://github.com/lucasfdcampos/lucasfdcampos)
-[![Repos Badge](https://badges.pufler.dev/repos/lucasfdcampos?color=blueviolet)]
+![Repos Badge](https://badges.pufler.dev/repos/lucasfdcampos?color=blueviolet)
 
 
 <p> 
