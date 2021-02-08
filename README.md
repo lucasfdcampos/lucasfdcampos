@@ -9,8 +9,8 @@ My passion for programming is related to creating tools to help people and creat
 <ul>
  <li>👨🏻‍💻 Full Stack Developer</li>
  <li>🏢 Entrepreneur</li>
- <li>🚀 I'm currently studying (hard) TypeScript, NodeJS, React & React Native ⚛️</li>
- <li>🧭 Enjoying VS Code, Linux, Git and Notion</li>
+ <li>🚀 I'm currently studying (hard) Next.js, TypeScript, NodeJS, React & React Native ⚛️</li>
+ <li>🧭 Enjoying Next.js, VS Code, Linux, Git and Notion</li>
  <li>💪🏻 Working on my portfolio</li>
  <li>🚢 I know a lot - 10 year experience - about Clipper (yes, the language Clipper '84)</li>
  <li>🎸 Sometimes I play bass, listen music and ❤️ ☕</li>
