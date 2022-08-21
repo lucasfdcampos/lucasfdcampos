@@ -1,26 +1,17 @@
 <h1>Hi, I'm Lucas Campos</h1>
 
-Brazilian <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>
+Brazilian,
 
 Enthusiast about web & mobile development technologies.
 
 My passion for programming is related to creating tools to help people and create value to the world.
-
-<ul>
- <li>👨🏻‍💻 Full Stack Developer</li>
- <li>🏢 Entrepreneur</li>
- <li>🚀 I'm currently studying (hard) Next.js, TypeScript, NodeJS, React & React Native ⚛️</li>
- <li>🧭 Enjoying Next.js, VS Code, Linux, Git and Notion</li>
- <li>💪🏻 Working on my portfolio</li>
- <li>🚢 I know a lot - 10 year experience - about Clipper (yes, the language Clipper '84)</li>
- <li>🎸 Sometimes I play bass, listen music and ❤️ ☕</li>
-</ul>
 
 <br />
 
 > "I'll show you how great I am!" <br />
 ― Muhammad Ali
 
+<!--
 ## Languages & Technologies
 [![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
@@ -48,7 +39,9 @@ My passion for programming is related to creating tools to help people and creat
 [![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=for-the-badge&logo=Dribbble&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=for-the-badge&logo=figma)](https://github.com/lucasfdcampos/)
 [![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
+-->
 
+<!--
 ## Github Stats
 
 <p> 
@@ -57,9 +50,9 @@ My passion for programming is related to creating tools to help people and creat
    <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
  </a>
 </p>
+-->
 
-
-<h2> How to reach me </h2>
+<h3> How to reach me </h3>
 <a href="https://linkedin.com/in/lucasfdcampos">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
