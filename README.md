@@ -1,15 +1,41 @@
-<h1>Hi, I'm Lucas Campos</h1>
+## 👋 Hey, I'm Lucas!
 
-Brazilian,
+🇧🇷 Brazilian | 💻 Back-End Software Engineer | 🚀 15+ years of coding experience
 
-Enthusiast about web & mobile development technologies.
+I'm a passionate developer who believes in the power of **clean code**, **refactoring**, and building **scalable solutions** that generate real value for people and businesses.
 
-My passion for programming is related to creating tools to help people and create value to the world.
+### 👨‍💻 What I love:
+- 🧠 Solving complex problems with elegant backend architecture  
+- ⚙️ Working with Golang, NodeJS (NestJS), TypeScript & Python  
+- 🏗️ Designing microservices and real-time APIs  
+- 🔍 Writing maintainable, testable and readable code  
+- 🤝 Collaborating with teams, mentoring, and doing pair programming  
 
-<br />
+### 🛠️ Main stack:
+- Golang, TypeScript, NodeJS (NestJS)  
+- PostgreSQL, MongoDB, Redis  
+- Docker, Kubernetes, Kafka, Elasticsearch  
+- GitHub Actions, CI/CD, Clean Architecture  
 
-> "I'll show you how great I am!" <br />
-― Muhammad Ali
+### 📈 What drives me:
+Building tech that scales, refactoring legacy systems with purpose, and crafting software that’s not just functional — but impactful.
+
+> *"Code is a tool. My real mission is to deliver value, clarity, and impact — one commit at a time."*
+
+
+### 📬 Let's connect:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucasfdcampos/">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/lucasfdcampos">
+    <img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:lucasfdcampos@gmail.com">
+    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <!--
 ## Languages & Technologies
@@ -41,7 +67,6 @@ My passion for programming is related to creating tools to help people and creat
 [![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 -->
 
-<!--
 ## Github Stats
 
 <p> 
@@ -50,15 +75,3 @@ My passion for programming is related to creating tools to help people and creat
    <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
  </a>
 </p>
--->
-
-<h3> How to reach me </h3>
-<a href="https://linkedin.com/in/lucasfdcampos">
-  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://instagram.com/lucasfdcampos">
- <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:lucascampos.ads@gmail.com">
- <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
-</a>
