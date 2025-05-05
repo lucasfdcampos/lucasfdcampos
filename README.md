@@ -17,6 +17,7 @@ I'm a passionate developer who believes in the power of **clean code**, **refact
 - Docker, Kubernetes, Kafka, Elasticsearch  
 - GitHub Actions, CI/CD, Clean Architecture  
 
+
 ### 📈 What drives me:
 Building tech that scales, refactoring legacy systems with purpose, and crafting software that’s not just functional — but impactful.
 
@@ -67,6 +68,7 @@ Building tech that scales, refactoring legacy systems with purpose, and crafting
 [![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
 -->
 
+<!--
 ## Github Stats
 
 <p> 
@@ -75,3 +77,6 @@ Building tech that scales, refactoring legacy systems with purpose, and crafting
    <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
  </a>
 </p>
+
+![visitors](https://komarev.com/ghpvc/?username=lucasfdcampos&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
+-->
