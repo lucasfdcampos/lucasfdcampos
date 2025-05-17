@@ -12,9 +12,9 @@ I'm a passionate developer who believes in the power of **clean code**, **refact
 - 🤝 Collaborating with teams, mentoring, and doing pair programming  
 
 ### 🛠️ Main stack:
-- Golang, TypeScript, NodeJS (NestJS)  
-- PostgreSQL, MongoDB, Redis  
-- Docker, Kubernetes, Kafka, Elasticsearch  
+- Golang, Javascript/TypeScript, Python, NodeJS (NestJS)  
+- PostgreSQL, MySQL, MongoDB, Redis  
+- Docker, Kubernetes, Kafka, RabbitMQ, Elasticsearch  
 - GitHub Actions, CI/CD, Clean Architecture  
 
 
