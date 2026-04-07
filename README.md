@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Lucas!
 
-🇧🇷 Brazilian | 💻 Back-End Software Engineer | 🚀 15+ years of coding experience
+🇧🇷 Brazilian | 💻 Back-End Software Engineer | 🚀 16+ years of coding experience
 
 I'm a passionate developer who believes in the power of **clean code**, **refactoring**, and building **scalable solutions** that generate real value for people and businesses.
 
@@ -12,10 +12,11 @@ I'm a passionate developer who believes in the power of **clean code**, **refact
 - 🤝 Collaborating with teams, mentoring, and doing pair programming  
 
 ### 🛠️ Main stack:
-- Golang, Javascript/TypeScript, Python, NodeJS (NestJS)  
+- Golang, Javascript/TypeScript, NodeJS, Python
 - PostgreSQL, MySQL, MongoDB, Redis  
 - Docker, Kubernetes, Kafka, RabbitMQ, Elasticsearch  
-- GitHub Actions, CI/CD, Clean Architecture  
+- GitHub Actions, CI/CD, Clean Architecture
+- AWS / Azure
 
 
 ### 📈 What drives me:
