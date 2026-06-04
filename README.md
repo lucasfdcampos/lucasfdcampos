@@ -1,83 +1,118 @@
-## 👋 Hey, I'm Lucas!
+<div align="center">
 
-🇧🇷 Brazilian | 💻 Back-End Software Engineer | 🚀 16+ years of coding experience
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Lucas+Campos+%F0%9F%91%8B;Backend+Engineer+%7C+Go+%2B+Distributed+Systems;16%2B+years+of+code+in+production;Clean+Architecture+%E2%80%A2+Scalability+%E2%80%A2+Impact)](https://github.com/DenverCoder1/readme-typing-svg)
 
-I'm a passionate developer who believes in the power of **clean code**, **refactoring**, and building **scalable solutions** that generate real value for people and businesses.
+</div>
 
-### 👨‍💻 What I love:
-- 🧠 Solving complex problems with elegant backend architecture  
-- ⚙️ Working with Golang, NodeJS (NestJS), TypeScript & Python  
-- 🏗️ Designing microservices and real-time APIs  
-- 🔍 Writing maintainable, testable and readable code  
-- 🤝 Collaborating with teams, mentoring, and doing pair programming  
+## 🇧🇷 About Me
 
-### 🛠️ Main stack:
-- Golang, Javascript/TypeScript, NodeJS, Python
-- PostgreSQL, MySQL, MongoDB, Redis  
-- Docker, Kubernetes, Kafka, RabbitMQ, Elasticsearch  
-- GitHub Actions, CI/CD, Clean Architecture
-- AWS / Azure
+```go
+package main
 
+import "fmt"
 
-### 📈 What drives me:
-Building tech that scales, refactoring legacy systems with purpose, and crafting software that’s not just functional — but impactful.
+type Engineer struct {
+	Name       string
+	Role       string
+	Location   string
+	Experience string
+	Focus      []string
+}
+
+func main() {
+	me := Engineer{
+		Name:       "Lucas Campos",
+		Role:       "Backend Software Engineer",
+		Location:   "Brazil 🇧🇷",
+		Experience: "16+ years",
+		Focus: []string{
+			"Distributed Systems",
+			"Microservices Architecture",
+			"High-Throughput APIs",
+			"Event-Driven Design",
+			"Clean Code & Refactoring",
+		},
+	}
+	
+	fmt.Printf("Hello, World! I'm %s 👋\n", me.Name)
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Runtimes
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Messaging & Streaming
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Practices & Architecture
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasfdcampos&theme=tokyonight&hide_border=true&background=1a1b27&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8)](https://streak-stats.demolab.com/?user=lucasfdcampos)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Lucas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasfdcampos&bg_color=1a1b27&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true&radius=6)](https://github.com/lucasfdcampos)
+
+---
+
+## 💡 What I Build
+
+- **High-throughput backend services** in Go with clean architecture and domain-driven design
+- **Event-driven microservices** using Kafka and RabbitMQ for async, decoupled workflows
+- **Real-time APIs** built for scale — from greenfield to refactoring legacy monoliths
+- **CI/CD pipelines** with GitHub Actions, Docker and Kubernetes on AWS/Azure
 
 > *"Code is a tool. My real mission is to deliver value, clarity, and impact — one commit at a time."*
 
+---
 
-### 📬 Let's connect:
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucasfdcampos/">
-    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/lucasfdcampos">
-    <img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:lucasfdcampos@gmail.com">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+**Let's build something great together 🚀**
 
-<!--
-## Languages & Technologies
-[![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react)](https://github.com/lucasfdcampos/)
-[![Next](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=for-the-badge&logo=styled-components)](https://github.com/lucasfdcampos/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=for-the-badge&logo=mysql&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=Insomnia&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=Linux&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=for-the-badge&logo=Dribbble&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
-[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=for-the-badge&logo=figma)](https://github.com/lucasfdcampos/)
-[![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&link=https://github.com/lucasfdcampos/)](https://github.com/lucasfdcampos/)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfdcampos/)
+[![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasfdcampos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfdcampos@gmail.com)
 
-<!--
-## Github Stats
-
-<p> 
-  <a href="https://github.com/lucasfdcampos">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasfdcampos&count_private&hide=prs&show_icons=true&theme=tokyonight" />
-   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfdcampos&layout=compact&theme=tokyonight" />
- </a>
-</p>
-
-![visitors](https://komarev.com/ghpvc/?username=lucasfdcampos&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
--->
+</div>
