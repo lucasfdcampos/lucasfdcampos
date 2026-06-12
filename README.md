@@ -80,92 +80,6 @@ func main() {
 ![TDD](https://img.shields.io/badge/TDD-6DB33F?style=flat-square&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>💳 Digital Wallet</b> — Payment processing backend</summary>
-<br/>
-
-> Production-grade digital wallet system with full transaction lifecycle management, balance control, and event-driven payment processing.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | TypeScript · NestJS · PostgreSQL · Redis |
-| **Architecture** | Microservices · Event-driven · Clean Architecture |
-| **Features** | Transaction processing · Balance management · Audit trail |
-| **Security** | JWT auth · Input validation · Rate limiting |
-| **Impact** | ACID-compliant wallet operations with full transaction history |
-| **Repository** | [lucasfdcampos/digital-wallet](https://github.com/lucasfdcampos/digital-wallet) |
-
-</details>
-
-<details>
-<summary><b>🔀 NestJS + Kong API Gateway</b> — API Gateway integration reference</summary>
-<br/>
-
-> Reference implementation of API Gateway patterns with Kong, covering routing, rate limiting, authentication plugins, and service discovery integrated with NestJS microservices.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | TypeScript · NestJS · Kong Gateway · Docker |
-| **Architecture** | API Gateway · Plugin-based routing |
-| **Features** | Rate limiting · Auth plugins · Service mesh · Request routing |
-| **Impact** | Production-ready reference for Kong + NestJS integration patterns |
-| **Repository** | [lucasfdcampos/nestjs-kong](https://github.com/lucasfdcampos/nestjs-kong) |
-
-</details>
-
-<details>
-<summary><b>🚛 Fast Cargo</b> — Logistics management platform</summary>
-<br/>
-
-> Backend system for cargo and logistics management, handling shipment tracking, routing, and delivery workflow orchestration.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | TypeScript · NestJS · PostgreSQL · Docker |
-| **Architecture** | REST API · Clean Architecture · Domain-driven |
-| **Features** | Shipment tracking · Route management · Status lifecycle |
-| **Impact** | End-to-end cargo lifecycle management with full audit trail |
-| **Repository** | [lucasfdcampos/fast-cargo](https://github.com/lucasfdcampos/fast-cargo) |
-
-</details>
-
-<details>
-<summary><b>🎬 Raspberry Awards API</b> — Data analysis REST API</summary>
-<br/>
-
-> NestJS API that ingests Raspberry Awards historical data and extracts producer win intervals — built with TDD and clean architecture, achieving 100% integration test coverage.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | TypeScript · NestJS · SQLite · Jest |
-| **Architecture** | Clean Architecture · TDD · Repository pattern |
-| **Testing** | 100% integration test coverage |
-| **Features** | CSV ingestion · Statistical interval analysis · REST endpoints |
-| **Repository** | [lucasfdcampos/raspberry-awards-api](https://github.com/lucasfdcampos/raspberry-awards-api) |
-
-</details>
-
----
-
-## 💼 Experience
-
-**Senior Backend Engineer** · *NTT Data* · Brazil · Remote
-
-<!-- Descreva brevemente o contexto da empresa e o seu papel -->
-
-- Designed and maintained distributed backend services handling high-volume traffic with Go
-- Led event-driven architecture decisions using Kafka and RabbitMQ
-- Drove adoption of clean architecture patterns across backend teams
-- Built and maintained CI/CD pipelines with GitHub Actions, Docker, and Kubernetes on AWS
-
-`Go` `Kafka` `PostgreSQL` `Redis` `Docker` `Kubernetes` `AWS`
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -184,33 +98,9 @@ func main() {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasfdcampos&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 [![Lucas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasfdcampos&bg_color=1a1b27&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true&radius=6)](https://github.com/lucasfdcampos)
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasfdcampos/lucasfdcampos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasfdcampos/lucasfdcampos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasfdcampos/lucasfdcampos/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
